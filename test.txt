@@ -1,2 +1,4 @@
 Hello,world!
 Test the pull funtion!
+test merge function
+test merge function again
